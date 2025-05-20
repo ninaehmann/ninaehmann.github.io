@@ -25,6 +25,8 @@ github_username: 'ninaehmann'
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
+kramdown:
+  input: GFM
 plugins:
   - jekyll-paginate
 
