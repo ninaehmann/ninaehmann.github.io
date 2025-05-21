@@ -18,9 +18,9 @@ email: 'nina[dot]ehmann[at]uni[minus]konstanz[dot]de'
 description: "I'm a graduate student in Brain and Cognitive Sciences at Universiteit van Amsterdam."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ninaehmann.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-# twitter_username: 'jamigibbs'
+twitter_username: ''
 github_username: 'ninaehmann'
-#medium_username: 'blog.jamigibbs.com'
+medium_username: ''
 
 # Build settings
 markdown: kramdown
